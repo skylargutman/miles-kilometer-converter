@@ -32,10 +32,4 @@ calc_b = Button(text="Calculate", command=calc_km)
 calc_b.grid(column=1, row=2)
 
 
-
-
-
-
-
-
 window.mainloop()
